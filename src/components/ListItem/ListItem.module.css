@@ -1,0 +1,17 @@
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  margin-right: 15px;
+  margin-left: auto;
+  border-radius: 5px;
+  height: 25px;
+  background-color: rgb(216, 174, 245);
+  border: none;
+}
+
+.text {
+  margin: 10px 0 10px 15px;
+}

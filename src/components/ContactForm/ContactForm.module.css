@@ -1,0 +1,13 @@
+.input {
+  display: block;
+  margin: 10px auto;
+}
+
+.button {
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  height: 25px;
+  background-color: rgb(216, 174, 245);
+  border: none;
+}

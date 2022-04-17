@@ -1,0 +1,13 @@
+.container {
+  margin: 10px auto;
+  width: 300px;
+  font-size: 15px;
+  text-align: center;
+  background-color: rgb(205, 247, 222);
+  padding-bottom: 10px;
+}
+
+.title {
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
